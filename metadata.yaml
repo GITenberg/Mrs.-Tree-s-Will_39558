@@ -1,0 +1,30 @@
+_repo: Mrs.-Tree-s-Will_39558
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39558-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2012-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcc 'PS'
+title: Mrs. Tree's Will
+url: http://www.gutenberg.org/ebooks/39558
